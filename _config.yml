@@ -1,0 +1,28 @@
+name: eversys
+favicon: null
+layout_spectrum: 0.7702648502308875
+typography_spectrum: 0.8697260026820004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2717791183385998
+  lightness: 0.32976499758660793
+  saturation: 0.605941177578643
+  rhythmicContrast: 0.9457700969651341
+purpose: []

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eversys]]></title>
-        <description><![CDATA[eversys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Piąte urodziny Eversysu]]></title>
+        <description><![CDATA[Piąte urodziny Eversysu]]></description>
+        <link>https://thegrid.ai/eversys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 19:16:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 19:24:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eversys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d2080c1-67a4-41c8-80e9-43a2fdacdbd0.jpg">]]></description>
+            <link>https://thegrid.ai/eversys/a9442928-1984-4e12-ab2b-be1d7f014b22/index.html</link>
+            <guid isPermaLink="false">a9442928-1984-4e12-ab2b-be1d7f014b22</guid>
+            <pubDate>Sat, 28 May 2016 19:23:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is some text. Nothing more yet.</p>]]></description>
-            <link>undefinedthis-is-some-text-nothing-more-yet/index.html</link>
+            <link>https://thegrid.ai/eversys/this-is-some-text-nothing-more-yet/index.html</link>
             <guid isPermaLink="false">2055630e-d38b-4274-99dd-73df9a1bc069</guid>
             <pubDate>Sat, 28 May 2016 19:16:21 GMT</pubDate>
         </item>
